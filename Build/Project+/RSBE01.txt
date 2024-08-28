@@ -343,7 +343,7 @@ Default Settings Modifier [Igglyboo, Brkirch, and FMK]
 * 42000000 90000000
 * 0417F360 00000100
 * 0417F364 04000A00
-* 0417F368 08010101 #ALC Enabled
+* 0417F368 08010100
 * 0417F36C 00000000
 * E0000000 80008000
 
@@ -3120,8 +3120,6 @@ op b 0x38	@ $808A087C
 .include Source/Project+/CStick.asm		# Don't move this to BOOST, it will cause aerial drift for some reason
 .include Source/Project+/Items.asm
 .include Source/Community/ItemEx.asm
-.include Source/Community/Syringe.asm		
-
-#.include Source/LoadFiles.asm 			# for fudgepop codes, needs updating to 3.0 codebase though
+.include Source/Community/Syringe.asm
 
 .include Source/Project+/MultiGCT.asm		# MAKE SURE THIS IS AT THE VERY BOTTOM OF THIS CODESET!!!
