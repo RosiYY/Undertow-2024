@@ -17621,6 +17621,14 @@ Custom Victory Themes v1.2a [Dantarion, KingJigglypuff]
 * 0000FF2E 0000FF2F
 * 0000FF30 0000FF31
 
+Results Random Music Selector [mawwwk, DukeItOut]
+* C20EB14C 00000005
+* 7C7D1B78 38600004
+* 3D808003 618CFC7C
+* 7D8903A6 4E800421
+* 6064F400 7FA3EB78
+* 60000000 00000000
+
 Classic and All-Star Results Music Table [DukeItOut]
 * C26E0980 00000004
 * 880F0033 5400083C

@@ -788,6 +788,7 @@ Source/Project+/CSE.asm
 	[Project+] Custom Sound Engine v4.2c [Dantarion, PyotrLuzhin, DukeItOut]
 Source/Project+/ResultsMusic.asm
 	Custom Victory Themes v1.2a [Dantarion, KingJigglypuff]
+	Results Random Music Selector [mawwwk, DukeItOut]
 	Classic and All-Star Results Music Table [DukeItOut]
 Source/Project+/SFXExpand.asm
 	SFX and Music Setting Customizer [DukeItOut]
