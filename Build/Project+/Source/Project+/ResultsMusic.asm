@@ -23,7 +23,7 @@ uint32_t[46] |
 ################################################
 Results Random Music Selector [mawwwk, DukeItOut]
 ################################################
-.alias VSResultsID = 0xF40X        # Base ID to play
+.alias VSResultsID = 0xF400        # Base ID to play
 .alias ResultsTrackCount = 4
 
 HOOK @ $800EB14C
