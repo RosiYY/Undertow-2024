@@ -12,10 +12,10 @@ MARIO
 08 - ??? Mario by ???
 
 DONKEY KONG
-06 - Previous DK
-07 - Previous DK
-08 - Previous DK
-09 - Previous DK
+06 - Red Mango DK by mawwwk
+07 - Purple DK by mawwwk
+08 - Mint DK by mawwwk, original costume by Apples
+09 - Tan DK by mawwwk
 
 LINK
 
@@ -23,18 +23,18 @@ SAMUS
 40 - Brawl Fake Samus by SJS
 
 YOSHI
-09 - Past Yoshi (Purp)
-10 - Past Yoshi (Orange)
-12 - Past Yoshi (Light Green)
+09 - Purple Yoshi
+10 - Orange Yoshi
+12 - Yoshi Cookie by MetalLegacy
 Zubat Yoshi needs added, as well as egg break animations for that costume
 
 KIRBY
-08 - influenza Kirby (needs moved to 25)
-09 - Star Red Kirby (needs moved to 40)
-10 - Star Blue Kirby (needs moved to 41)
-11 - Star Green Kirby (needs moved to 42)
-12 - Shenanigans Kirby by ilikepizza107 (needs moved to 26)
+25 - influenza Kirby
+26 - Shenanigans Kirby by ilikepizza107
 35 - Ice Kirby by SJS
+40 - Star Red Kirby
+41 - Star Blue Kirby
+42 - Star Green Kirby
 
 FOX
 09 - Star Red
@@ -51,9 +51,9 @@ LUIGI
 08 - Trans Palette Luigi by ???
 
 CAPTAIN FALCON
-06 - Previous Falcon
-07 - Previous Falcon
-08 - Previous Falcon
+06 - Dr. Stewart Captain Falcon by Layell and Moe
+07 - Brown Captain Falcon by SJS
+08 - Black Captain Falcon by Moe
 09 - Anday Falcon?
 10 - ORLY Falcon
 11 - shad Falcon
@@ -216,12 +216,11 @@ WARIO MAN
 BOWSER
 
 KNUCKLES
-04 - Past Knux
-05 - Past Knux
-06 - Past Knux
-07 - Past Knux
-08 - Past Knux (same as 09, can be removed)
-35 - Moto Knux
+04 - Knuckles Hydrocity Recolor by Motobug and Chuckles
+05 - Silver Knuckles by ghost_user47, StarWaffle, Mach7, Tock, Ishmael205, Spex120, Eternal_Yoshi, The RealHeroOfWinds, DukeItOut and Motobug
+06 - Black Knuckles by ghost_user47, StarWaffle, Mach7, Tock, Ishmael205, Spex120, Eternal_Yoshi, The RealHeroOfWinds, DukeItOut and Motobug
+07 - Knuckles Classic Recolor by sunsette, Motobug
+35 - Moto Knux by Motobug
 
 ########################
 STAGES
