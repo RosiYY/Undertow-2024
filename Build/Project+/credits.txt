@@ -219,6 +219,7 @@ KNUCKLES
 ########################
 STAGES
 ########################
+
 BOWSERS CASTLE
 Base - Blue Bowser's by DHS7
 
