@@ -24,6 +24,7 @@ LINK
 
 SAMUS
 40 - Brawl Fake Samus by SJS
+45 - Morsecode Samus by DHS7
 
 YOSHI
 12 - Yoshi Cookie by MetalLegacy
@@ -94,6 +95,7 @@ SHEIK
 
 ICE CLIMBERS
 06 - Serb Ice Climbers by FingerStripes
+07 - Techboy Ice Climbers by DHS7
 
 MARTH
 07 - Gunther Marth by ilikepizza107
@@ -121,6 +123,7 @@ META KNIGHT
 10 - ??? MK by ??? 
 25 - Kulprit MK by ilikepizza107
 40 - HK MK by ???
+45 - Yuko MK by DHS7, with credit to ilikepizza107
 
 PIT
 40 - Star Red Pit by SJS, Star, ilikepizza107
@@ -131,6 +134,7 @@ ZERO SUIT SAMUS
 06 - Pink ZSS by ???
 07 - Dark Green ZSS by ???
 40 - RosiYY ZSS by ilikepizza107
+45 - ZSS Dread Metroid Suit by ilikepizza107, with credit to Chucklez
 
 OLIMAR
 35 - Duckymar by Motobug, DHS7
