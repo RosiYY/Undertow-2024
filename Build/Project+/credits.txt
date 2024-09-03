@@ -19,10 +19,6 @@ MARIO
 08 - ??? Mario by ???
 
 DONKEY KONG
-06 - Red Mango DK by mawwwk
-07 - Purple DK by mawwwk
-08 - Mint DK by mawwwk, original costume by Apples
-09 - Tan DK by mawwwk
 
 LINK
 
@@ -30,29 +26,23 @@ SAMUS
 40 - Brawl Fake Samus by SJS
 
 YOSHI
-09 - Purple Yoshi
-10 - Orange Yoshi
 12 - Yoshi Cookie by MetalLegacy
-40 - Zubat Yoshi
 
 KIRBY
-25 - influenza Kirby
+25 - influenza Kirby by influenza
 26 - Shenanigans Kirby by ilikepizza107
 35 - Ice Kirby by SJS
-40 - Star Red Kirby
-41 - Star Blue Kirby
-42 - Star Green Kirby
+40 - Star Red Kirby by influenza
+41 - Star Blue Kirby by influenza
+42 - Star Green Kirby by influenza
 
 FOX
-09 - Star Red
-10 - Drip Fox
+09 - Silver Fox by Baka
+10 - Drip Fox by Wyld
 11 - Raventoli Fox by SJS
 26 - Thalia Fox by ilikepizza107
 
 PIKACHU
-12 - Green Hat Pika
-13 - Bow Tie Pika
-14 - Headphones Pika
 
 LUIGI
 08 - Trans Palette Luigi by ???
@@ -61,10 +51,10 @@ CAPTAIN FALCON
 06 - Dr. Stewart Captain Falcon by Layell and Moe
 07 - Brown Captain Falcon by SJS
 08 - Black Captain Falcon by Moe
-09 - Anday Falcon?
-10 - ORLY Falcon
-11 - shad Falcon
-12 - SoulOfficer Falcon
+09 - Anday Falcon? by FingerStripes?
+10 - ORLY Falcon by Wyld
+11 - shad Falcon by influenza & ilikepizza107
+12 - SoulOfficer Falcon by influenza 
 
 NESS
 25 - ??? Ness by ???
@@ -78,7 +68,7 @@ NESS
 40 - Not Chris Ness by ilikepizza107
 
 BOWSER
-25 - sabrina Bowser
+25 - sabrina Bowser by influenza
 
 PEACH
 
@@ -86,31 +76,31 @@ ZELDA
 09 - Dark Blue Zelda by ???
 10 - Serb Zelda by ilikepizza107
 11 - KWAM Zelda by ilikepizza107
-12 - sabrina Zelda
-13 - Tuck Zelda
+12 - sabrina Zelda by influenza
+13 - Tuck Zelda by Tuck
 14 - Meecrobs Zelda by ilikepizza107
-30 - Skyward Sword Zelda
-31 - Evil Lesbian Zelda
+30 - Skyward Sword Zelda, import by HulkAlex
+31 - Evil Lesbian Zelda by Evil Lesbian
 
 SHEIK
 09 - Dark Blue Sheik by ???
 10 - Serb Sheik by ilikepizza107
 11 - Kwam Sheik by ilikepizza107
-12 - sabrina Sheik
-13 - RoSheik
+12 - sabrina Sheik by influenza
+13 - RoSheik by JetFantastic
 14 - Meecrobs Sheik by ilikepizza107
 30 - Light Blue Sheik by ???
-31 - Evil Lesbian Sheik
+31 - Evil Lesbian Sheik by Evil Lesbian
 
 ICE CLIMBERS
-06 - Serb Ice Climbers
+06 - Serb Ice Climbers by FingerStripes
 
 MARTH
 07 - Gunther Marth by ilikepizza107
 34 - Purple Hooded Marth by mawwwk
-35 - Kwam Marth
+35 - Kwam Marth by influenza
 40 - Artemis Marth by ilikepizza107
-45 - Jagz$ Marth
+45 - Jagz$ Marth by Shmoo, FingerStripes
 
 MR. GAME & WATCH
 17 - Rise GnW
@@ -122,8 +112,8 @@ FALCO
 26 - Black Melee Falco by ???
 
 GANONDORF
-26 - Che Ganon
-40 - Joey Ganon
+26 - Che Ganon by DHS7
+40 - Joey Ganon by DHS7
 
 META KNIGHT
 06 - Wren MK by ???
@@ -150,12 +140,12 @@ OLIMAR
 LUCAS
 06 - Shadowhawke Lucas by SJS
 36 - Grealy Lucas by SJS(?)
-40 - Star Lucas Red
-41 - Star Lucas Blue
-42 - Star Lucas Green
+40 - Star Lucas Red Star, SJS
+41 - Star Lucas Blue Star, SJS
+42 - Star Lucas Green Star, SJS
 
 DIDDY KONG
-01 - DLA Diddy Kong
+01 - DLA Diddy Kong by Wyld
 
 MEWTWO
 25 - Purple Armored M2 by ???
@@ -166,25 +156,24 @@ SQUIRTLE
 
 IVYSAUR
 08 - Maofever Ivy by Maofever
-09 - Past Ivy?
 
 DEDEDE
 01 - Ripple Dedede by ???
-11 - Apollo Ali Dedede
+11 - Apollo Ali Dedede by ???
 
 LUCARIO
 11 - Dark Red Lucario by ???
 12 - Raze Lucario by FingerStripes
-25 - Influenza Lucario
+25 - influenza Lucario by influenza
 
 IKE
 07 - Saturated Red Ike by ???
 08 - Purple/pink Ike by ???
 09 - Moist Ike by ilikepizza107
 24 - Gunther Ike by ilikepizza107
-25 - Influenza Ike?
+25 - Influenza Ike by influenza
 26 - Red Rose Hector Ike by ???
-34 - Blitz Ike
+34 - Blitz Ike by erg
 
 R.O.B.
 40 - Comb ROB by Wyld
