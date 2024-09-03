@@ -202,7 +202,7 @@ SNAKE
 
 SONIC
 25 - Motobug Sonic by Motobug (needs coding)
-40 - Wyld Sonic by Wyld
+40 - Wyld Sonic by Wyld (needs coding)
 45 - DHS7 Sonic by DHS7
 
 WARIO MAN
