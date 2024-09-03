@@ -7,7 +7,10 @@ Custom GFX for Crona Marth & Artemis Marth by SSK and KingJigglypuff, ilikepizza
  - PSA Edited: Sub Actions 48, GFX; 49, GFX; 4E, GFX; 50, GFX; 54, GFX; 55, GFX; 58, GFX; 5D, GFX; 60, GFX; 62, GFX; 63, GFX; 64, GFX; 65, GFX; 66, GFX; B0, GFX; B9, GFX; D7, GFX; DC, GFX; E7, GFX; 1D0, GFX; 1D1, GFX; 1D6, GFX; 1D7, GFX; 1D8, GFX; 1D9, GFX; 1DA, GFX; 1DB, GFX; 1DC, GFX; 1DD, GFX; 1DE, GFX; 1E8, GFX; 1EB, GFX; 1EE, GFX; 1EF, GFX; 1F0, GFX; 1F1, GFX; 1F2, GFX; 1F3, GFX; 1F4, GFX
 
 PSA edits for Hector Ike's to be applied to costume slots 20-29 (instead of 20-25) by ilikepizza107
-- PSA Edited: Sub Action 1E2, GFX; Sub Routine 0x9758; Sub Routine 0x96C8; Sub Routine 0x97A0; Sub Routine 0x8730; 
+ - PSA Edited: Sub Action 1E2, GFX; Sub Routine 0x9758; Sub Routine 0x96C8; Sub Routine 0x97A0; Sub Routine 0x8730; 
+
+Custom GFX for Wyld Sonic, Motobug Sonic, and DHS7 Sonic by ilikepizza107
+ - PSA Edited: Sub Routine 0x2E5AC
 
 ################
 SKINS
@@ -205,8 +208,8 @@ SNAKE
 40 - SoulOfficer Snake by ilikepizza107, with credit to Autumn
 
 SONIC
-25 - Motobug Sonic by Motobug (needs coding)
-40 - Wyld Sonic by Wyld (needs coding)
+25 - Motobug Sonic by Motobug
+40 - Wyld Sonic by Wyld
 45 - DHS7 Sonic by DHS7
 
 WARIO MAN
