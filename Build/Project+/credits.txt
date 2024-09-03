@@ -141,6 +141,7 @@ ZERO SUIT SAMUS
 OLIMAR
 35 - Duckymar by Motobug, DHS7
 36 - Frogimar by Motobug, DHS7
+40 - CP9 Olimar by Fingerstripes
 
 LUCAS
 06 - Shadowhawke Lucas by SJS
