@@ -30,7 +30,7 @@ YOSHI
 09 - Purple Yoshi
 10 - Orange Yoshi
 12 - Yoshi Cookie by MetalLegacy
-Zubat Yoshi needs added, as well as egg break animations for that costume
+40 - Zubat Yoshi
 
 KIRBY
 25 - influenza Kirby
@@ -130,7 +130,9 @@ META KNIGHT
 40 - HK MK by ???
 
 PIT
-Need to add star Pit costumes
+40 - Star Red Pit by SJS, Star, ilikepizza107
+41 - Star Blue Pit by SJS, Star, ilikepizza107
+42 - Star Green Pit by SJS, Star, ilikepizza107
 
 ZERO SUIT SAMUS
 06 - Pink ZSS by ???
