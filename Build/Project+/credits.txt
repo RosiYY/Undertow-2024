@@ -2,6 +2,10 @@
 PSA
 ################
 
+PSA edits for Hector Ike's to be applied to costume slots 20-29 (instead of 20-25) by ilikepizza107
+PSA Edited:
+ - Sub Action 1E2, GFX; Sub Routine 0x9758; Sub Routine 0x96C8; Sub Routine 0x97A0; Sub Routine 0x8730; 
+
 ################
 SKINS
 ################
@@ -60,7 +64,6 @@ CAPTAIN FALCON
 12 - SoulOfficer Falcon
 
 NESS
-01 - Not Chris Ness by ilikepizza107 (Could be moved to 40)
 25 - ??? Ness by ???
 30 - Kumatora Ness by ???
 31 - Kumatora Red Ness by ???
@@ -69,9 +72,10 @@ NESS
 34 - Kumatora White Ness by ???
 35 - Kumatora Pink Ness by ???
 36 - Kumatora Yellow Ness by ???
+40 - Not Chris Ness by ilikepizza107
 
 BOWSER
-02 - sabrina Bowser (needs moved to 25)
+25 - sabrina Bowser
 
 PEACH
 
@@ -115,22 +119,17 @@ FALCO
 26 - Black Melee Falco by ???
 
 GANONDORF
-06 - Che Ganon (move to 26)
+26 - Che Ganon
 40 - Joey Ganon
 
 META KNIGHT
 06 - Wren MK by ???
 07 - C# MK
 10 - ??? MK by ??? 
-11 - Kulprit MK by ilikepizza107 (needs moved to 25)
+25 - Kulprit MK by ilikepizza107
 40 - HK MK by ???
 
 PIT
-09 - Previous Pit? (Brown)
-21 - Black Classic Pit
-22 - Mint Classic Pit (needs moved to 35)
-23 - Pink Classic Pit (needs moved to 36)
-24 - Purple Classic Pit (needs moved to 37)
 Need to add star Pit costumes
 
 ZERO SUIT SAMUS
@@ -169,18 +168,18 @@ DEDEDE
 11 - Apollo Ali Dedede
 
 LUCARIO
-03 - Influenza Lucario (needs moved to 25)
 11 - Dark Red Lucario by ???
 12 - Raze Lucario by FingerStripes
+25 - Influenza Lucario
 
 IKE
 07 - Saturated Red Ike by ???
 08 - Purple/pink Ike by ???
-09 - Influenza Ike? (needs moved to 25)
-10 - Red Rose Hector Ike by ??? (needs moved to 26)
-11 - Moist Ike by ilikepizza107 (needs moved to 09)
-12 - Blitz Ike (needs moved to 34)
+09 - Moist Ike by ilikepizza107
 24 - Gunther Ike by ilikepizza107
+25 - Influenza Ike?
+26 - Red Rose Hector Ike by ???
+34 - Blitz Ike
 
 R.O.B.
 40 - Comb ROB by Wyld
@@ -194,9 +193,9 @@ WARIO
 ROY
 
 TOON LINK
-02 - Shrug Toon Link by ilikepizza107, Shrug (needs moved to appropriate slot for effects)
-40 - Blue Scarf Toon Link by ???
-41 - Black Scarf Toon Link by ???
+40 - Shrug Toon Link by ilikepizza107, Shrug
+45 - Blue Scarf Toon Link by ???
+46 - Black Scarf Toon Link by ???
 
 WOLF
 06 - Light Blue Wolf by ???
@@ -204,12 +203,12 @@ WOLF
 SNAKE
 06 - MVZY Snake by Wyld
 07 - Autumn Snake by Autumn
-08 - influenza Snake by influenza (needs moved to 25)
+25 - influenza Snake by influenza
 40 - SoulOfficer Snake by ilikepizza107, with credit to Autumn
 
 SONIC
-03 - Wyld Sonic by Wyld (needs coding, moved to 40)
 25 - Motobug Sonic by Motobug (needs coding)
+40 - Wyld Sonic by Wyld
 45 - DHS7 Sonic by DHS7
 
 WARIO MAN
