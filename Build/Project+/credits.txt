@@ -240,4 +240,6 @@ Base - Undertow PS2 by RosiYY & Ajay
 MENUS
 ################
 
+New "Ready to Fight!" model by Xenthos
+
 CSS + SSS by RosiYY
