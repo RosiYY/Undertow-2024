@@ -56,9 +56,10 @@ CAPTAIN FALCON
 07 - Brown Captain Falcon by SJS
 08 - Black Captain Falcon by Moe
 09 - Anday Falcon? by FingerStripes?
-10 - ORLY Falcon by Wyld
-11 - shad Falcon by influenza & ilikepizza107
 12 - SoulOfficer Falcon by influenza 
+35 - ORLY Falcon by Wyld
+36 - shad Falcon by influenza & ilikepizza107
+
 
 NESS
 25 - ??? Ness by ???
@@ -188,7 +189,6 @@ R.O.B.
 JIGGLYPUFF
 
 WARIO
-12 - Z-Stick Wario by Z-Stick
 26 - Diaper Wario by ???
 
 ROY
@@ -217,10 +217,6 @@ WARIO MAN
 BOWSER
 
 KNUCKLES
-04 - Knuckles Hydrocity Recolor by Motobug and Chuckles
-05 - Silver Knuckles by ghost_user47, StarWaffle, Mach7, Tock, Ishmael205, Spex120, Eternal_Yoshi, The RealHeroOfWinds, DukeItOut and Motobug
-06 - Black Knuckles by ghost_user47, StarWaffle, Mach7, Tock, Ishmael205, Spex120, Eternal_Yoshi, The RealHeroOfWinds, DukeItOut and Motobug
-07 - Knuckles Classic Recolor by sunsette, Motobug
 35 - Moto Knux by Motobug
 
 ########################

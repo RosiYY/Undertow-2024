@@ -53,12 +53,13 @@ Y+Z: Metal_Cavern_YZ.param
 
 
 ################
-06.asl - 4 entries
+06.asl - 5 entries
 
 Base: Bowser_Castle.param
 R: Bowser_Castle_R.param
 L: Bowser_Castle_L.param
 Z: Bowser_Castle_Z.param
+Up+Down+Right+Left: Bowser_Castle_DPAD.param
 
 
 ################
@@ -272,7 +273,7 @@ Z: Shadow_Moses_Z.param
 
 
 ################
-23.asl - 6 entries
+23.asl - 7 entries
 
 Base: Green_Hill_Zone.param
 R: Green_Hill_Zone_R.param
@@ -280,6 +281,7 @@ L: Green_Hill_Zone_L.param
 X: Green_Hill_Zone_X.param
 Z: Green_Hill_Zone_Z.param
 X+L: Green_Hill_Zone_LX.param
+Up+Down+Right+Left: Green_Hill_Zone_DPAD.param
 
 
 ################
@@ -504,12 +506,13 @@ X: Sky_Sanctuary_X.param
 
 
 ################
-44.asl - 4 entries
+44.asl - 5 entries
 
 Base: Dead_Line.param
 R: Dead_Line_R.param
 L: Dead_Line_L.param
 Z: Dead_Line_Z.param
+Up+Down+Right+Left: Dead_Line_DPAD.param
 
 
 ################

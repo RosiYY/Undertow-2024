@@ -108,6 +108,13 @@ Bowser_Castle.param
 	Bowsers_Castle.tlst
 
 ################
+Bowser_Castle_DPAD.param
+
+	STGBOWSERCASTLE.pac
+	st_final.rel
+	Bowsers_Castle.tlst
+
+################
 Bowser_Castle_L.param
 
 	STGBOWSERCASTLE_L_THWOMPS.pac
@@ -386,6 +393,13 @@ Corneria_Z.param
 
 ################
 Dead_Line.param
+
+	STGDEADLINE.pac
+	st_greenhill_ht.rel
+	Dead_Line.tlst
+
+################
+Dead_Line_DPAD.param
 
 	STGDEADLINE.pac
 	st_greenhill_ht.rel
@@ -849,6 +863,14 @@ Golden_Temple_Z.param
 
 ################
 Green_Hill_Zone.param
+
+	STGGREENHILLZONE.pac
+	st_greenhill_ht.rel
+	Green_Hill_Zone.tlst
+	SFX / GFX: 0x0066 / 0x0054
+
+################
+Green_Hill_Zone_DPAD.param
 
 	STGGREENHILLZONE.pac
 	st_greenhill_ht.rel
