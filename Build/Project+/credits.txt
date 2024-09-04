@@ -166,7 +166,7 @@ IVYSAUR
 
 DEDEDE
 01 - Ripple Dedede by ???
-11 - Apollo Ali Dedede by ???
+11 - Apollo Ali Dedede by FingerStripes
 
 LUCARIO
 11 - Dark Red Lucario by ???
@@ -175,11 +175,11 @@ LUCARIO
 
 IKE
 07 - Saturated Red Ike by ???
-08 - Purple/pink Ike by ???
-09 - Moist Ike by ilikepizza107
-24 - Gunther Ike by ilikepizza107
-25 - Influenza Ike by influenza
-26 - Red Rose Hector Ike by ???
+08 - Moist Ike by ilikepizza107
+24 - influenza Ike by influenza
+25 - Red Rose Hector Ike by ???
+26 - Gunther Ike by ilikepizza107
+27 - Purple/pink Ike by ???
 34 - Blitz Ike by erg
 
 R.O.B.
